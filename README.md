@@ -2,6 +2,12 @@
 
 This project is a simple autocomplete API. It takes an input query and provide suggested queries, based on the value of input parameter <br />
 
+
+https://user-images.githubusercontent.com/18292112/181383419-3bf3b13e-cb34-4b8f-afe0-d8a4d939faea.mov
+
+<br />
+
+
 To facilitate the search process, the data from CSV file is loaded with the following format : <br />
 ![](img/parsedQueries.png) <br />
 
